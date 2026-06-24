@@ -9,3 +9,11 @@ git push -u origin main
 changing branch and pushing code 
 git branch
 git checkout -b "branch-name"
+
+commit one change and reset it to working directory
+
+now we will understand merging 
+first go to amanDev
+then write something
+push to the amanDev branch 
+go to main merge that amanDev to main
