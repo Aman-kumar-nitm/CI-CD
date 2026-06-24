@@ -17,3 +17,5 @@ first go to amanDev
 then write something
 push to the amanDev branch 
 go to main merge that amanDev to main
+
+Here only things are written from the amanDev
