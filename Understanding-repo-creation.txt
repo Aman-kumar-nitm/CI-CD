@@ -19,3 +19,5 @@ push to the amanDev branch
 go to main merge that amanDev to main
 
 now we will handle merge conflict in this line only we will write something in main and then commit here and there also and then we will merge.
+
+Here only things are written from the amanDev
